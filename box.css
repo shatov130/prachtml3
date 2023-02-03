@@ -1,7 +1,7 @@
 .box1 {
   width: 300px;
   height: 300px;
-  background-color: #FF0000;
+  background-color: #FF0099;
   margin: 30px;
   padding: 30px;
 }
@@ -9,6 +9,6 @@
 .box2 {
   width: 100px;
   height: 100px;
-  background-color: blue;
-  border: 5px solid yellow;
+  background-color: #A52A2A;
+  border: 5px solid 	#696969;
 }
